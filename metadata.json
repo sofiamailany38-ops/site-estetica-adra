@@ -1,0 +1,6 @@
+{
+  "name": "Adra Araujo Clinica Estetica",
+  "description": "Landing page de luxo para a Adra Araujo Clinica Estetica, focada no Minimalismo Sensorial e na estetica Quiet Luxury.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
