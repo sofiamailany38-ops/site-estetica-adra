@@ -1,7 +1,7 @@
 import { MessageCircle, Star, MapPin, Clock } from "lucide-react";
 
 export default function App() {
-  const whatsappUrl = "https://wa.me/5511999999999?text=Olá%20Adra%20Araujo,%20gostaria%20de%20agendar%20uma%20consulta%20estética.";
+  const whatsappUrl = "https://wa.me/5519991575254?text=Olá%20Adra%20Araujo,%20gostaria%20de%20agendar%20uma%20consulta%20estética.";
 
   const procedimentos = [
     {
